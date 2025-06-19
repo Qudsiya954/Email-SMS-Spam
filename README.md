@@ -26,8 +26,8 @@ The application takes a text message (email or SMS) as input and uses NLP techni
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/sms-spam-classifier.git
-cd sms-spam-classifier
+git clone https://github.com/Qudsiya954/Email-SMS-Spam.git
+cd Email-SMS-Spam
 ```
 2. Create and Activate a Virtual Environment
 ```bash
